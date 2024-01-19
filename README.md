@@ -10,7 +10,7 @@
 
 - :Formacion: Soy `Junior` en la [Facultad de Ingeniería de sistemas y Civil ]([https://www.unu.edu.pe/sistemas_civil/index.php/facultad/sistemas/2013-08-22-03-44-32]) En la [Universidad Nacional de Ucayali]([https://www.unu.edu.pe/portal/]).
 - :technologist: Amante de usar software para resolver `Problemas`.
-- :nerd_fase: Siempre `Aprendiendo nuevas cosas`.
+- :Virtud: Siempre `Aprendiendo nuevas cosas`.
 - :thinking: Actualmente estoy en búsqueda de `Oportunidades de Trabajo`, este es mi [Mi CV]().
 - :boom: Puedes visitar mi sitio web [Mi WEBSITE]().
 <br>
